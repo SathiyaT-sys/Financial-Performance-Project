@@ -80,8 +80,9 @@ Products with lower cost and moderate discount give the best profit ratios.
 Profit vs Discount graph helps identify inefficient discount practices.
 
 🧠 Author
+
 Sathiyapriya  T
+
 Data Analyst | Python | Power BI | SQL
-LinkedIn | GitHub
 
 

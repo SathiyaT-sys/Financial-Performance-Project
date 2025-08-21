@@ -1,4 +1,4 @@
-# Financial-Performance-Project(Tableau)
+# Financial-Performance-Project (Tableau)
 End-to-end Financial Performance Project using Tableau : Overview, KPIs/metrics , Charts &amp; visuals , Insights  of Sales Trends, Profit, Discounts and Gross Sales.
 
 📘 Financial Performance Dashboard Report

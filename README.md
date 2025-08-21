@@ -85,6 +85,7 @@ Profit vs Discount graph helps identify inefficient discount practices.
 🧠 Author
 
 Sathiyapriya  T
+
 Data Analyst | Python | Power BI | SQL
 
 
